@@ -1,3 +1,22 @@
+# React Hooks Practice with Petfinder API
+
+## Introduction
+
+This project is aimed at honing your skills in React Hooks by creating a simple yet functional application that fetches pet details from the Petfinder API v2. It serves as a practical guide to understand the fundamentals of React Hooks like `useState`, `useEffect`, and others.
+
+## Features
+
+- Fetch pet details like name, breed, location, and more using Petfinder API v2
+- Implement various React Hooks for state management and side-effects
+- A user-friendly interface to search and view pet details
+
+## Technologies Used
+
+- React.js
+- React Hooks (`useState`, `useEffect`, etc.)
+- Petfinder API v2
+- Tailwind CSS for styling
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
